@@ -1,5 +1,7 @@
 # Server Chatroom
 
+Server for chatroom web app
+
 - install `yarn`
 - start `yarn start` : http://localhost:3001
 
